@@ -1,0 +1,22 @@
+.custom-side-box {
+  width: 190px;
+  background: #fafafa;
+  border: 1px solid #ecebf5;
+  box-sizing: border-box;
+  border-radius: 10px;
+  height: 120px;
+  margin: 10px auto 15px auto;
+  padding: 10px;
+}
+
+.side-title {
+  color: #696d8c;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.side-value {
+  color: #060213;
+  font-size: 20px;
+  font-weight: 600;
+}

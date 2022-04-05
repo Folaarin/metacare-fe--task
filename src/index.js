@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './fonts/Gelion Regular.ttf';
+import './fonts/gelion-cufonfonts-webfont/Gelion Medium.woff'
 
 ReactDOM.render(
   <React.StrictMode>
